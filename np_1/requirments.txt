@@ -1,5 +1,6 @@
-pandas
-Flask
-numpy
+pandas~=1.5.2
+Flask~=2.2.2
+numpy~=1.24.1
 matplotlib
-sklearn
+sklearn~=0.0.post1
+pytorch
