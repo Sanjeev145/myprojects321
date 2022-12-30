@@ -3,4 +3,4 @@ Flask~=2.2.2
 numpy~=1.24.1
 matplotlib
 sklearn~=0.0.post1
-pytorch
+gunicorn
